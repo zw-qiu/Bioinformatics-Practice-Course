@@ -1,6 +1,3 @@
-# The course of Bioinformatics Practice
-
-
 ## Getting started
 
 ### Markdown语言
