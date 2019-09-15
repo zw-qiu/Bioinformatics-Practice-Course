@@ -97,9 +97,9 @@ Getting started
 
    - 间接设置
 
-     ![Github][1]
+     ![Github][2]
 
-     [1]:https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
+     [2]:https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
 
 
 
