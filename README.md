@@ -1,7 +1,6 @@
 # Study
 [百度一下，你就知道]  (http://www.baidu.com  "百度一下，你就知道")
 
-
 [谷歌主页]https://www.google.com  
 
 [谷歌主页](https://www.google.com)  
