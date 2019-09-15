@@ -1,5 +1,7 @@
 > This repository represents the skills of the Bioinformatics Practice as well as coding which would be updated with the learning schedule.
 
+## Getting Started
+
 ### Markdown语言
 
 #### Windows编辑器
