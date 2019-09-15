@@ -99,7 +99,7 @@
 
     ![Github Desktop][2]
     
-    [2]: https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
+      [2]: https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
 
 
 
