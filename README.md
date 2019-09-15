@@ -1,46 +1,86 @@
-# Study
-[谷歌主页]https://www.google.com  
+# The course of Bioinformatics Practice
 
-[谷歌主页](https://www.google.com)  
+## Getting started
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-***
+### Markdown语言
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-___
+#### Windows编辑器
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+1. Typora
+2. Visual Studio Code
 
-Quote break.
+#### 语法规则
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
----
+1. **标题（#后加空格）**
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+   #表示一级标题
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+   ######表示六级标题
 
-Here's a line for us to start with.
+2. **列表**
 
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+   无序列表（*,+,-效果一样加空格）
 
-This line is also a separate paragraph, but  
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+   * 列表1（一级效果）
+     * 子列表1 （二级效果）
+
+   有序列表（数字加点号加空格）
+
+   1. 音乐（一级）
+
+      1.童话（二级）
+
+      2.在路上
+
+3. **文字格式**
+
+   * **粗体**
+
+   ```
+   语法：**文本** 或 __文本__
+   ```
+
+   + *斜体*
+
+   ```
+   语法：*文本*  或 _文本
+   ```
+
+   + **_粗体加斜体_**
+
+   ```
+   语法：**_文本_**
+   ```
+
+   + ~~删除线~~
+
+   ```
+   语法：~~文本~~
+   ```
+
+4. **链接**
+
+   - 直接设置
+
+     > ```
+     > [百度](http://www.baidu.com "百度一下，你就知道")
+     > ```
+
+   - 间接设置
+
+     > ```
+     > [百度[1]
+     > [1]:http://www/baidu.com "百度一下，你就知道"
+     > ```
+
+   - 隐式设置
+
+     > [百度] [ ]
+     >
+     > [百度]: http://www.baidu.com "百度一下，你就知道"
+
+5. **图片**
+
+   
+
+6. 
