@@ -95,13 +95,16 @@
 
    - 直接设置
 
-     ![Docker](https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/docker.PNG)
+     ```
+     语法：![Docker](https://github.com/zw-qiu/Bioinformatics-Practice-Course/blob/master/docker.PNG)
+     ```
 
    - 间接设置
 
-     ![Github][2]
-
-     [2]: https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
+     ```
+     语法：![Github][2]
+          [2]: https://github.com/zw-qiu/Bioinformatics-Practice-Course/blob/master/github%20desktop.PNG
+     ```
 
 6. **引用**
 
