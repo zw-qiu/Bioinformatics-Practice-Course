@@ -1,5 +1,3 @@
-## Getting started
-
 ### Markdown语言
 
 #### Windows编辑器
