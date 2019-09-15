@@ -93,7 +93,7 @@
 
    - 直接设置
 
-     ![壁纸1](https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/587515-widescreen-new-hd-wallpapers-1920x1080-1920x1080-lockscreen.jpg)
+     ![壁纸1](https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/docker.PNG)
 
    - 间接设置
 
