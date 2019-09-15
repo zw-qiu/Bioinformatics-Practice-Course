@@ -93,13 +93,13 @@
 
    - 直接设置
 
-     ![壁纸1](https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/docker.PNG)
+     ![Docker](https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/docker.PNG)
 
    - 间接设置
 
-    ![壁纸2][2]
+    ![Github Desktop][2]
     
-    [2]: https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/Rock-Wallpapers-25-1920-x-1080.jpg
+    [2]: https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
 
 
 
