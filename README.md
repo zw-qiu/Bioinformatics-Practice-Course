@@ -1,4 +1,4 @@
-Getting started
+## Getting started
 
 ### Markdown语言
 
@@ -99,8 +99,39 @@ Getting started
 
      ![Github][2]
 
-     [2]:https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
+     [2]: https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/github%20desktop.PNG
 
+6. **引用**
 
+   ```
+   >一级引用
+   >>二级引用
+   >>>三级引用
+   ```
 
+7. **水平分割线**
+
+   ```
+   ___
+   ***
+   ```
+
+8. **表格**
+
+   ```
+   |项目      | 价格|数量|
+   |:--------|----:|:-:|(左对齐|右对齐|居中)
+   |computer |1600Y| 5 |
+   |phone    |  12Y| 12 |
+   ```
+
+9. **文档目录**
+
+   在想放入目录结构的位置写[TOC]即可
+
+10. **转义字符**
+
+```
+\加\   *    `  -  + #等等
+```
 
