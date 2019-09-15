@@ -93,7 +93,7 @@
 
    - 直接设置
 
-     ![清华园](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%B8%85%E5%8D%8E%E5%9B%AD&step_word=&hs=2&pn=1&spn=0&di=22000&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2388525319%2C402051134&os=1418120982%2C1179407277&simid=4062227275%2C774795877&adpicid=0&lpn=0&ln=1213&fr=&fmq=1568540326768_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fwww.wuyueart.com%2Fuploads%2Fallimg%2F140616%2F11-140616112506334.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bo7y7jw6p_z%26e3Bv54AzdH3F4AzdH3Fetjo_z%26e3Brir%3Fwt1%3Dd808&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined "清华园")
+     ![壁纸1](http://desk.zol.com.cn/bizhi/5352_66155_2.html)
 
    - 间接设置
 
