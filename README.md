@@ -97,8 +97,9 @@
 
    - 间接设置
 
-    ![清华大学][1]
+    ![壁纸2][1]
     [1]:https://github.com/zw-qiu/Bioinformatics-Study-Course-Note/blob/master/Rock-Wallpapers-25-1920-x-1080.jpg
+
 
 
 
